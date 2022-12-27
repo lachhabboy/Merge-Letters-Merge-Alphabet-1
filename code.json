@@ -1,0 +1,129 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-2120403233975259/7458436623",
+        "InterstitialAdmob": "ca-app-pub-2120403233975259/9893028274",
+        "NativeAdmob": "ca-app-pub-2120403233975259/2558529399",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+
+		"maxBanner": "f7a5525108c00ac0A",
+		"maxInterstitial": "5fa0efbeea673f05A",
+		"maxNative": "bf83265395b54ba8A",
+		
+		"ironsource_appKey": "",
+		
+		"unity_game_id": "5093695",
+		"unity_test": false,
+		"unity_banner": "Banner_Android",
+		"unity_interstitial": "Interstitial_Android",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "",
+        "ImageBannerURL" : ""
+		
+      },
+
+    "items": [
+      {
+        "title": "Merge Alphabet Lore ABC",
+        "image": "https://i.pinimg.com/236x/65/c5/e6/65c5e69cab13cf522d2e562ba27e30a5.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "You will see an amazing story behindes these Alphabets in this Alphabet Lord Merge Run 3d Game. Want to know more about F,A,C and other characters in Alphabet Lore Game. Play this Merge Alphabet Run Lore Game and explore these characters. Unlock new Letters with Daily cash reward.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Merge Alphabet Lore ABC",
+        "image": "https://i.pinimg.com/236x/65/c5/e6/65c5e69cab13cf522d2e562ba27e30a5.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "You will see an amazing story behindes these Alphabets in this Alphabet Lord Merge Run 3d Game. Want to know more about F,A,C and other characters in Alphabet Lore Game. Play this Merge Alphabet Run Lore Game and explore these characters. Unlock new Letters with Daily cash reward.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Merge Alphabet Lore ABC",
+        "image": "https://i.pinimg.com/236x/65/c5/e6/65c5e69cab13cf522d2e562ba27e30a5.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "You will see an amazing story behindes these Alphabets in this Alphabet Lord Merge Run 3d Game. Want to know more about F,A,C and other characters in Alphabet Lore Game. Play this Merge Alphabet Run Lore Game and explore these characters. Unlock new Letters with Daily cash reward.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Merge Alphabet Lore ABC",
+        "image": "https://i.pinimg.com/236x/65/c5/e6/65c5e69cab13cf522d2e562ba27e30a5.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "You will see an amazing story behindes these Alphabets in this Alphabet Lord Merge Run 3d Game. Want to know more about F,A,C and other characters in Alphabet Lore Game. Play this Merge Alphabet Run Lore Game and explore these characters. Unlock new Letters with Daily cash reward.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+     {
+        "title": "Merge Alphabet Lore ABC",
+        "image": "https://i.pinimg.com/236x/65/c5/e6/65c5e69cab13cf522d2e562ba27e30a5.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "You will see an amazing story behindes these Alphabets in this Alphabet Lord Merge Run 3d Game. Want to know more about F,A,C and other characters in Alphabet Lore Game. Play this Merge Alphabet Run Lore Game and explore these characters. Unlock new Letters with Daily cash reward.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Merge Alphabet Lore ABC",
+        "image": "https://i.pinimg.com/236x/65/c5/e6/65c5e69cab13cf522d2e562ba27e30a5.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "You will see an amazing story behindes these Alphabets in this Alphabet Lord Merge Run 3d Game. Want to know more about F,A,C and other characters in Alphabet Lore Game. Play this Merge Alphabet Run Lore Game and explore these characters. Unlock new Letters with Daily cash reward.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Merge Alphabet Lore ABC",
+        "image": "https://i.pinimg.com/236x/65/c5/e6/65c5e69cab13cf522d2e562ba27e30a5.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "You will see an amazing story behindes these Alphabets in this Alphabet Lord Merge Run 3d Game. Want to know more about F,A,C and other characters in Alphabet Lore Game. Play this Merge Alphabet Run Lore Game and explore these characters. Unlock new Letters with Daily cash reward.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      }
+    ]
+
+  }
+}
